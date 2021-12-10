@@ -1,0 +1,157 @@
+import React from 'react'
+
+const Kindergarden = () => {
+	return (
+		<svg
+			
+			viewBox="0 0 495.021 465.021"
+			fill="none"
+			xmlns="http://www.w3.org/2000/svg"
+			sytle={{display: "block", margin: "auto"}}
+		>
+			<path
+				d="M197.5 424.5V320.5C197.5 313.833 201.9 300.4 219.5 300C217.9 300 251.833 300 269 300C275.833 300 289.3 304.1 288.5 320.5C287.7 320.5 288.167 389.833 288.5 424.5"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+			<path
+				d="M243.5 303.5V425.5"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+			<path
+				d="M66 288.5C66 276.5 76 273.5 81 273.5H121.5C132.3 273.5 134.333 283.5 134 288.5L132 373.5H66V288.5Z"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+			<path
+				d="M67.5 309.5H133"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+			<path
+				d="M359 288.5C359 276.5 369 273.5 374 273.5H414.5C425.3 273.5 427.333 283.5 427 288.5L425 373.5H359V288.5Z"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+			<path
+				d="M360.5 309.5H426"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+			<path
+				d="M156 141V428"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+			<path
+				d="M336 137V428"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+			<path
+				d="M155 170L8 272.5"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+			<path
+				d="M42 250V430H447V249"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+			<path
+				d="M339 173L486 273"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+			<path
+				d="M301.998 232.999H185.999C168.499 217.499 177.499 204.5 177.499 204.5C187.899 186.5 202.499 195 204.498 195.999C202.998 175.999 224.998 175.5 225.998 175.5C245.498 178.5 246.498 196.499 247.498 195.999C252.998 179.999 267.498 180.999 268.498 181.499C282.098 182.699 285.831 194.999 285.998 200.999C298.998 189.999 309.998 200.999 309.998 200.999C319.998 216.599 308.831 228.833 301.998 232.999Z"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+			<path
+				d="M217.5 175C216.333 167.333 219.6 151.7 242 150.5C242 150.5 267 150.5 269 177"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+			<path
+				d="M183 170H195"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+			<path
+				d="M199 134L209 143"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+			<path
+				d="M243 119V132"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+			<path
+				d="M285.5 132L275 142.5"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+			<path
+				d="M305 170H290"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+			<path
+				d="M255 48H309L294.5 29L309 8H248.5V71.5"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linejoin="round"
+			/>
+			<path
+				d="M102 174L248 72.5L393 174"
+				stroke="#103260"
+				stroke-width="15"
+				stroke-linecap="round"
+				stroke-linejoin="round"
+			/>
+			<circle cx="225" cy="380" r="6" fill="#103260" />
+			<circle cx="262" cy="380" r="6" fill="#103260" />
+		</svg>
+	)
+}
+
+export default Kindergarden
